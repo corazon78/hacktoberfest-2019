@@ -1,0 +1,8 @@
+<?php
+   
+    $hewan = ['kuda','ikan','babi'];
+
+    foreach($hewan as $binatang){
+         echo $binatang;
+    }
+?>
